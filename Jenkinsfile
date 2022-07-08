@@ -1,4 +1,4 @@
 //@Library('shared_pipeline') _
 //welcomeJob ‘lambdatest’
 @Library('shared_pipeline') _
-jenkinsForJava 'https://github.com/iamvickyav/spring-boot-data-H2-embedded.git'
+jenkinsForJava 'https://github.com/KatiusciaNovaesdeSa/simple-java-maven-app.git'
